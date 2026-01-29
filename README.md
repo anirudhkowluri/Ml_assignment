@@ -1,14 +1,12 @@
-#Pixel Coordinate Regression with CNN
+# Pixel Coordinate Regression with CNN
 
-# PROBLEM STATEMENT:Using Deep Learning techniques, predict the coordinates (x,y) of a pixel which has a value of
-255 for 1 pixel in a given 50x50 pixel grayscale image and all other pixels are 0. The pixel with a
-value of 255 is randomly assigned. You may generate a dataset as required for solving the
-problem. Please explain your rationale behind dataset choices
+# PROBLEM STATEMENT:
+Using Deep Learning techniques, predict the coordinates (x,y) of a pixel which has a value of 255 for 1 pixel in a given 50x50 pixel grayscale image and all other pixels are 0. The pixel with a value of 255 is randomly assigned. You may generate a dataset as required for solving the problem.
 
-#<h2>solution:<h2>
+# <h2>solution:<h2>
 Problem Formulation
 
-#<h1>jupitor notebook code summary<h1>
+# <h1>jupitor notebook code summary<h1>
 
 1.Input: 50×50 grayscale image (normalized)
 
@@ -18,7 +16,7 @@ Problem Formulation
 
 4.Loss Function: Mean Squared Error (MSE)
 
-#Dataset Generation
+# Dataset Generation
 
 Since no dataset is provided, a synthetic dataset is generated:
 
@@ -56,7 +54,7 @@ Output Layer → (x, y)
 
 The CNN effectively learns positional information from pixel activations.
 
-#Visualizations Included
+# Visualizations Included
 
 Training vs Validation Loss curves
 
@@ -66,7 +64,7 @@ Image overlays showing true vs predicted pixel locations
 
 These plots verify that the model performs the intended task.
 
-<h1>#steps to run the file:</h1>
+<h1> #steps to run the file:</h1>
 
 <p><u>git commands:</u></p>
 
