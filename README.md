@@ -29,7 +29,7 @@ ls
 
 git status
 
-<h1>#commands activate the virtual enivornment in terminal and load the streamlit website:</h1>
+<h1>#commands activate the virtual enivornment in terminal a</h1>
 
 <h2>#Create the virtual enivironment</h2>
 python -m venv .venv
