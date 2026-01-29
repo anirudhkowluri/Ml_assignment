@@ -95,4 +95,4 @@ python -m pip list
 python -m pip freeze > installed-versions.txt
 
 <h2>#Execute the code files</h2>
-run the jupytor notebook file
+Execute the jupytor notebook file
