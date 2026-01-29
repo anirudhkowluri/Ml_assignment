@@ -16,6 +16,14 @@ The model is compiled with the Adam optimizer and Mean Squared Error (MSE) loss,
 After training, the model is evaluated on a held-out test set. The code generates predictions and visualizes results using scatter plots comparing predicted and ground truth coordinates, as well as image overlays highlighting true and predicted pixel positions. These visualizations provide intuitive confirmation that the model correctly learns the spatial mapping between image input and coordinate output.
 
 Overall, the code emphasizes clarity, correctness, and interpretability, demonstrating how convolutional neural networks can be effectively applied to supervised regression tasks involving spatial data.
+ 
+# Dependencies required to run the code:
+numpy
+matplotlib
+tensorflow
+scikit-learn
+pandas
+seaborn
 
 <h1> #steps to run the file:</h1>
 
