@@ -4,8 +4,6 @@
 Using Deep Learning techniques, predict the coordinates (x,y) of a pixel which has a value of 255 for 1 pixel in a given 50x50 pixel grayscale image and all other pixels are 0. The pixel with a value of 255 is randomly assigned. You may generate a dataset as required for solving the problem.
 
 # <h2>solution:<h2>
-Problem Formulation
-
 # <h1>jupitor notebook code summary<h1>
 
 1.Input: 50×50 grayscale image (normalized)
