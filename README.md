@@ -14,7 +14,10 @@ Using Deep Learning techniques, predict the coordinates (x,y) of a pixel which h
 
 4.Loss Function: Mean Squared Error (MSE)
 
+5. METRICS: Mean Absolute error(MAE)
+
 # Dataset Generation
+why I used synthetic dataset because :
 
 Since no dataset is provided, a synthetic dataset is generated:
 
